@@ -1,0 +1,7 @@
+
+7
+main.kv,e\f\ef63ec63647ffef6ee705750b401a8861326087a
+7
+main.py,f\1\f1bdda93d9a278e358509d498e17d97764c1fb29
+>
+kv/homepage.kv,1\7\1776509dabdd716b6d0cc2f83ca32fe3190c2480
